@@ -178,3 +178,20 @@ The model is built using PyTorch. All details have been assembled in the `./trai
 `sh train_test_swintr_pretrain_radiomics_cat_only.sh`
 
 The results will be saved in the `./output` directory.
+
+## 5. Citation
+
+If you find our work to be useful for your research, please consider citing.
+
+```
+@article{tian2024predicting,
+  title={Predicting occult lymph node metastasis in solid-predominantly invasive lung adenocarcinoma across multiple centers using radiomics-deep learning fusion model},
+  author={Tian, Weiwei and Yan, Qinqin and Huang, Xinyu and Feng, Rui and Shan, Fei and Geng, Daoying and Zhang, Zhiyong},
+  journal={Cancer Imaging},
+  volume={24},
+  number={1},
+  pages={8},
+  year={2024},
+  publisher={Springer}
+}
+```
